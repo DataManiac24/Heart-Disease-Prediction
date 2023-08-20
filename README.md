@@ -26,8 +26,6 @@ Outcome: Understand data, build accurate heart disease model, suggest enhancemen
 2. **Feature Innovation**: Experiment with new features.
 3. **Continuous Update**: Implement regular model updates.
 4. **Interpretability**: Choose interpretable models.
-5. **Ensemble Strategies**: Combine models for better performance.
-6. **Feedback Loop**: Collaborate with medical experts for constant improvement.
 
 **Model Comparison & Challenges**
 
